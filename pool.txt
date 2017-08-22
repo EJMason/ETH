@@ -1,17 +1,16 @@
-###################################################################################                        
-##############                      CONFIG INFO                         ###########                        
-###################################################################################                        
-maxgputemp 85
 stratumproxy enabled
 
 proxywallet 0x8925E863A6b4bEEdf0abD9A4849d3382C15BBcC9
 
-globalcore 1150
-globalmem 2150
-globalfan 75
-globalpowertune 6
+globalminer claymore
 
-proxypool1 us2.ethermine.org:4444
-proxypool2 us2.ethermine.org:14444
+maxgputemp 85
+globalcore 1450
+globalmem 2250
+globalfan 75
+globalpowertune 7
+
+proxypool1 eth-us2.dwarfpool.com:8008
+proxypool2 eth-us.dwarfpool.com:8008
 
 flags --cl-global-work 8192 --farm-recheck 200
