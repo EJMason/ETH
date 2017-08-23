@@ -22,11 +22,11 @@ pwr 5f13b5 4 4 4 4 4 4
 # proxypool2 eth-us.dwarfpool.com:8008
 
 #### NANOPOOL #### 10.2 Th/s
-proxypool1 eth-us-west1.nanopool.org:9999
-proxypool2 eth-us-east1.nanopool.org:9999
+# proxypool1 eth-us-west1.nanopool.org:9999
+# proxypool2 eth-us-east1.nanopool.org:9999
 
 ##### ETHERMINE ###### 22 Th/s
-# proxypool1 us2.ethermine.org:14444
-# proxypool2 us2.ethermine.org:4444
+proxypool1 us1.ethermine.org:4444
+proxypool2 us2.ethermine.org:4444
 
 flags --cl-global-work 8192 --farm-recheck 200
