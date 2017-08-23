@@ -11,9 +11,11 @@ globalfan 75
 #globalmem 2250
 #globalpowertune 5
 
-cor 5f13b5 1200 1250 1300 1200 1250 1300
-mem 5f13b5 2250 2250 2250 2150 2150 2150
-pwr 5f13b5 5 5 5 4 4 4
+cor 5f13b5 1450 1450 1150 1100 1250 1300
+mem 5f13b5 2000 2020 2020 2020 2150 2150
+pwr 5f13b5 4 4 4 4 4 4
+
+# SUCCESS: 1300/2250/29.6
 
 #### DWARFPOOL #### 25.8 Th/s
 # proxypool1 eth-us2.dwarfpool.com:8008
