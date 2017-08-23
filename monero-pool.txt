@@ -1,16 +1,15 @@
+globalminer sgminer-gm-xmr
 stratumproxy enabled
 
 proxywallet 45pyyHfG6JdBLpkSeymTGsLXjCaMWuR6QYyhUxgzksN4K5kzZQyMSZxJKvR9RSE5QnXNoepZA3Qfi2Ro37q2tZuuArjx6KH
-
-globalminer sgminer-gm-xmr
-
-globalcore 1450
-globalmem 2250
-globalfan 75
-globalpowertune 7
-maxgputemp 85
-
 proxypool1 xmr-us-west1.nanopool.org:14433
 proxypool2 xmr-us-west1.nanopool.org:14444
+
+globalfan 75
+maxgputemp 85
+
+cor 5f13b5 1350 1350 1350 1350 1350 1350
+mem 5f13b5 2250 2250 2250 2250 2250 2250
+pwr 5f13b5 4 4 4 4 4 4
 
 flags --cl-global-work 8192 --farm-recheck 200
