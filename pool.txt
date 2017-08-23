@@ -5,10 +5,15 @@ proxywallet 0x8925E863A6b4bEEdf0abD9A4849d3382C15BBcC9
 globalminer claymore
 
 maxgputemp 85
-globalcore 1450
-globalmem 2150
 globalfan 75
-globalpowertune 7
+
+# globalcore 1450
+# globalmem 2250
+# globalpowertune 7
+
+cor 5f13b5 1450 1450 1450 1450 1450 1200
+mem 5f13b5 2250 2250 2250 2250 2250 2250
+pwr 5f13b5 7 7 7 7 7 6
 
 #### DWARFPOOL #### 25.8 Th/s
 # proxypool1 eth-us2.dwarfpool.com:8008
