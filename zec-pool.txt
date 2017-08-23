@@ -1,4 +1,4 @@
-globalminer ewbf-zcash
+globalminer claymore-zcash
 
 stratumproxy enabled
 
