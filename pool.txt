@@ -12,7 +12,7 @@ globalfan 75
 # globalpowertune 4
 
 cor 5f13b5 1450 1450 1450 1450 1450 1450
-mem 5f13b5 2150 2250 2250 2250 2250 2250
+mem 5f13b5 2250 2250 2250 2250 2250 2250
 pwr 5f13b5 4 4 4 4 4 4
 
 #### DWARFPOOL #### 25.8 Th/s
