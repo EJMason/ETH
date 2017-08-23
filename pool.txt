@@ -7,7 +7,7 @@ globalminer claymore
 maxgputemp 85
 globalfan 75
 
-globalcore 1250
+globalcore 1350
 globalmem 2250
 globalpowertune 5
 
