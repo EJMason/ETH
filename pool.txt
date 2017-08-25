@@ -2,7 +2,7 @@ stratumproxy enabled
 
 proxywallet 0x8925E863A6b4bEEdf0abD9A4849d3382C15BBcC9
 
-globalminer ethminer
+globalminer claymore
 
 maxgputemp 85
 globalfan 75
@@ -11,6 +11,7 @@ globalfan 75
 # globalmem 2250
 # globalpowertune 4
 
+# miner 5f13b5 claymore
 cor 5f13b5 1350 1350 1350 1350 1350 1350
 mem 5f13b5 2250 2250 2250 2250 2250 2250
 pwr 5f13b5 4 4 4 4 4 4
@@ -20,8 +21,6 @@ cor 5f151c 1150 1150 1150 1150
 mem 5f151c 2150 2150 2150 2150  
 pwr 5f151c 4 4 4 4 4 4
 
-
-# SUCCESS: 1300/2250/29.6
 
 #### DWARFPOOL #### 25.8 Th/s
 # proxypool1 eth-us2.dwarfpool.com:8008
