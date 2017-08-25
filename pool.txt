@@ -2,8 +2,6 @@ stratumproxy enabled
 
 proxywallet 0x8925E863A6b4bEEdf0abD9A4849d3382C15BBcC9
 
-globalminer claymore
-
 maxgputemp 85
 globalfan 75
 
@@ -11,14 +9,14 @@ globalfan 75
 # globalmem 2250
 # globalpowertune 4
 
-# miner 5f13b5 claymore
-cor 5f13b5 1350 1350 1350 1350 1350 1350
+miner 5f13b5 sgminer-gm
+cor 5f13b5 1200 1200 1200 1200 1200 1200
 mem 5f13b5 2250 2250 2250 2250 2250 2250
 pwr 5f13b5 4 4 4 4 4 4
 
-
+miner 5f151c claymore
 #cor 5f151c 1200 1200 1200 1200  
-#mem 5f151c 2250 2250 2250 2250  
+#mem 5f151c 2150 2150 2250 2250  
 #pwr 5f151c 4 4 4 4 4 4
 
 
