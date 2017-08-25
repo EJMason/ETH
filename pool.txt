@@ -2,7 +2,7 @@ stratumproxy enabled
 
 proxywallet 0x8925E863A6b4bEEdf0abD9A4849d3382C15BBcC9
 
-globalminer sgminer-gm
+globalminer ethminer
 
 maxgputemp 85
 globalfan 75
