@@ -7,13 +7,13 @@ globalminer ethminer
 maxgputemp 85
 globalfan 75
 
-#globalcore 1350
-#globalmem 2250
-#globalpowertune 5
+globalcore 1350
+globalmem 2250
+globalpowertune 4
 
-cor 5f13b5 1350 1350 1350 1350 1350 1350
-mem 5f13b5 2250 2250 2250 2250 2250 2250
-pwr 5f13b5 4 4 4 4 4 4
+#cor 5f13b5 1350 1350 1350 1350 1350 1350
+#mem 5f13b5 2250 2250 2250 2250 2250 2250
+#pwr 5f13b5 4 4 4 4 4 4
 
 # SUCCESS: 1300/2250/29.6
 
