@@ -9,7 +9,7 @@ maxgputemp 85
 
 miner 5f151c sgminer-gm-xmr
 #cor 5f151c 1200 1200 1200 1200 1200 1200 
-mem 5f151c 2200 2200 2200 2200 2250 2250
+mem 5f151c 2250 2250 2250 2250 2250 2250
 pwr 5f151c 4 4 4 4 4 4
 
 flags --cl-global-work 8192 --farm-recheck 200
