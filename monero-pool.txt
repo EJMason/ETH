@@ -1,4 +1,3 @@
-globalminer sgminer-gm-xmr
 stratumproxy enabled
 
 proxywallet 45pyyHfG6JdBLpkSeymTGsLXjCaMWuR6QYyhUxgzksN4K5kzZQyMSZxJKvR9RSE5QnXNoepZA3Qfi2Ro37q2tZuuArjx6KH
@@ -8,7 +7,7 @@ proxypool2 xmr-us-west1.nanopool.org:14444
 globalfan 75
 maxgputemp 85
 
-miner 5f151c claymore
+miner 5f151c sgminer-gm-xmr
 #cor 5f151c 1200 1200 1200 1200 1200 1200 
 mem 5f151c 2200 2200 2200 2200 2250 2250
 pwr 5f151c 4 4 4 4 4 4
