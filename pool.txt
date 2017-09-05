@@ -5,11 +5,8 @@ proxywallet 0x8925E863A6b4bEEdf0abD9A4849d3382C15BBcC9
 maxgputemp 85
 globalfan 75
 
-# globalcore 1350
-# globalmem 2250
-# globalpowertune 4
-
-miner 5f13b5 sgminer-gm
+# Bigger Rig
+miner 5f13b5 claymore
 cor 5f13b5 1200 1200 1200 1200 1200 1200
 mem 5f13b5 2250 2250 2250 2250 2250 2250
 pwr 5f13b5 4 4 4 4 4 4
