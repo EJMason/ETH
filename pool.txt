@@ -1,34 +1,50 @@
+
+# --------- BEGIN CONFIG -------------- #
+
 stratumproxy enabled
 
 proxywallet 0x8925E863A6b4bEEdf0abD9A4849d3382C15BBcC9
 
+
+
+# ------------- MINER 2 -------------- #
+# miner 5f13b5 ethminer
+# cor 5f13b5 1300 1300 1300 1300 1300 1300
+# mem 5f13b5 2250 2250 2250 2250 2250 2250
+# pwr 5f13b5 5 5 5 5 5 5
+
+# ------------- MINER 1 -------------- #
+# miner 5f151c ethminer
+# cor 5f151c 1200 1200 1200 1200 1200 1240 
+# mem 5f151c 2250 2250 2250 2250 2250 2250
+# pwr 5f151c 4 4 4 4 4 4
+
+
+# ----------- Good Settings ----------- #
 maxgputemp 85
 globalfan 75
 
-# ------------- MINER 2 -------------- #
-miner 5f13b5 ethminer
-cor 5f13b5 1300 1300 1300 1300 1300 1300
-mem 5f13b5 2250 2250 2250 2250 2250 2250
-pwr 5f13b5 5 5 5 5 5 5
+# -------------  Globals  ------------- #
+globalminer ethminer
+globalcore 1250
+globalmem 2250
+globalfan 90
+globalpowertune 6
 
 
-# ------------- MINER 1 -------------- #
-miner 5f151c ethminer
-cor 5f151c 1200 1200 1200 1200 1200 1240 
-mem 5f151c 2250 2250 2250 2250 2250 2250
-pwr 5f151c 4 4 4 4 4 4
-
-
-#### DWARFPOOL #### 25.8 Th/s
-# proxypool1 eth-us2.dwarfpool.com:8008
-# proxypool2 eth-us.dwarfpool.com:8008
-
-#### NANOPOOL #### 10.2 Th/s
-# proxypool1 eth-us-west1.nanopool.org:9999
-# proxypool2 eth-us-east1.nanopool.org:9999
-
-##### ETHERMINE ###### 22 Th/s
+# ____ETHERMINE_____ # ----> 22 Th/s
 proxypool1 us2.ethermine.org:4444
 proxypool2 us1.ethermine.org:4444
 
+
 flags --cl-global-work 8192 --farm-recheck 200
+
+
+
+# ------------ Inactive Pools ------------ #
+#### DWARFPOOL #### 25.8 Th/s
+# proxypool1 eth-us2.dwarfpool.com:8008
+# proxypool2 eth-us.dwarfpool.com:8008
+#### NANOPOOL #### 10.2 Th/s
+# proxypool1 eth-us-west1.nanopool.org:9999
+# proxypool2 eth-us-east1.nanopool.org:9999
