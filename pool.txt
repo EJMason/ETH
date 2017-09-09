@@ -26,7 +26,7 @@ globalfan 75
 
 # -------------  Globals  ------------- #
 globalminer ethminer
-globalcore 1250
+# globalcore 1250
 globalmem 2250
 globalfan 90
 globalpowertune 6
