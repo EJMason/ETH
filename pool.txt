@@ -2,9 +2,7 @@
 # --------- BEGIN CONFIG -------------- #
 
 stratumproxy enabled
-
 proxywallet 0x8925E863A6b4bEEdf0abD9A4849d3382C15BBcC9
-
 
 
 # ------------- MINER 2 -------------- #
