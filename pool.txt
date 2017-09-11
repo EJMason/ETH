@@ -31,17 +31,3 @@ globalfan 75
 flags --cl-global-work 8192 --farm-recheck 200
 
 
-
-
-
-
-
-
-
-# ------------ Inactive Pools ------------ #
-#### DWARFPOOL #### 25.8 Th/s
-# proxypool1 eth-us2.dwarfpool.com:8008
-# proxypool2 eth-us.dwarfpool.com:8008
-#### NANOPOOL #### 10.2 Th/s
-# proxypool1 eth-us-west1.nanopool.org:9999
-# proxypool2 eth-us-east1.nanopool.org:9999
