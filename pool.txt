@@ -15,14 +15,14 @@ desktop 5f151c disabled
 
 cor 5f151c 1200 1200 1200 1200 1200 1200 
 mem 5f151c 2200 2200 2200 2200 2200 2250
-#pwr 5f151c 4 4 4 4 4 4
-vlt 5f151c 1150 1150 1150 1150 1150 1150
+pwr 5f151c 5 5 5 5 5 5
+# vlt 5f151c 1150 1150 1150 1150 1150 1150
 
 
 
 # ------------- MINER 2 -------------- #
-loc     5f13b5 tyRm
-miner   5f13b5 claymore
+loc 5f13b5 tyRm
+miner 5f13b5 claymore
 desktop 5f13b5 disabled
 
 cor 5f13b5 1200 1200 1200 1200 1200 1200
@@ -32,7 +32,7 @@ pwr 5f13b5 4 4 4 4 4 4
 
 # ----------- Global Settings ----------- #
 maxgputemp 85
-globalfan 75
+# globalfan 75
 flags --cl-global-work 8192 --farm-recheck 200
 
 
