@@ -15,6 +15,9 @@ miner 5f151c claymore
 cor 5f151c 1200 1200 1200 1200 1200 1200 
 mem 5f151c 2200 2200 2200 2200 2200 2250
 pwr 5f151c 4 4 4 4 4 4
+vlt 5f151c 1160
+
+desktop 5f151c disabled
 
 # ------------- MINER 2 -------------- #
 loc 5f13b5 ty
