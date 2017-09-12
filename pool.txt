@@ -21,8 +21,9 @@ vlt 5f151c 1125 1125 1125 1125 1125 1125
 
 
 # ------------- MINER 2 -------------- #
-loc 5f13b5 ty
-miner 5f13b5 claymore
+loc     5f13b5 tyRm
+miner   5f13b5 claymore
+desktop 5f13b5 disabled
 
 cor 5f13b5 1200 1200 1200 1200 1200 1200
 mem 5f13b5 2250 2250 2250 2250 2250 2250
