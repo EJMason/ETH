@@ -9,7 +9,7 @@ stratumproxy enabled
 
 
 # ------------- MINER 1 -------------- #
-loc 5f151c amd-rx-580-1250w-1
+loc 5f151c rx580-2
 miner 5f151c claymore
 # desktop 5f151c disabled
 
@@ -21,7 +21,7 @@ pwr 5f151c 4 4 4 4 4 4
 
 
 # ------------- MINER 2 -------------- #
-loc 5f13b5 amd-rx-580-1600w-1
+loc 5f13b5 rx580-1
 miner 5f13b5 claymore
 desktop 5f13b5 disabled
 
