@@ -32,7 +32,7 @@ pwr 5f13b5 4 4 4 4 4 4
 
 # ----------- Global Settings ----------- #
 maxgputemp 85
-globalfan 75
+# globalfan 75
 flags --cl-global-work 8192 --farm-recheck 200
 
 
