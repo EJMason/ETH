@@ -1,0 +1,45 @@
+-colors 1
+-dbg -1
+
+-esm STRATUMTYPE
+-epool POOL1
+-ewal WALLET
+-eworker WORKER
+-epsw x
+
+# -allpools 1
+# -allcoins -1
+
+#      (AMD cards only) enables assembler GPU kernels.
+#      In this mode some tuning is required even in ETH-only mode,
+#      use "-dcri" option or or "+/-" keys in runtime to set best speed.
+# -asm 1
+
+#      single(1) or dual mining(0)
+-mode 0
+
+# ------------- LBRY [LBC] Dual Mining ------------- #
+-dcoin lbry
+-dwal <here>
+-dpool stratum+tcp://lbry.suprnova.cc:6257
+-dpsw <here>
+-dcri 30
+# -ethi 10
+
+# GPU clock Speed
+# -cclock 1100
+# Target GPU Voltage
+-cvddc 850
+# Target GPU Memory clock Speed
+#-mclock 2200
+# Target GPU Memory VOltage
+-mvddc 850
+
+# ------------------- Safety ------------------------- #
+# GPU temperature to stop mining
+-tstop 85
+# Target GPU Temp
+-tt 65
+## Fan Speed Percentages
+-fanmin 50
+-fanmax 99
