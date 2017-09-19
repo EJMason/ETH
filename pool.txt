@@ -8,7 +8,17 @@ proxywallet 0x8925E863A6b4bEEdf0abD9A4849d3382C15BBcC9
 stratumproxy enabled
 
 
-# ------------- MINER 1 -------------- #
+# --------------- RX580-1 (Special Edition) --------------- #
+loc 5f13b5 rx580-1
+miner 5f13b5 claymore
+desktop 5f13b5 disabled
+
+cor 5f13b5 1200 1200 1200 1200 1200 1200
+mem 5f13b5 2250 2250 2250 2250 2250 2250
+pwr 5f13b5 4 4 4 4 4 4
+
+
+# ----------------------- RX580-2 ------------------------ #
 loc 5f151c rx580-2
 miner 5f151c claymore
 # desktop 5f151c disabled
@@ -16,18 +26,10 @@ miner 5f151c claymore
 cor 5f151c 1150 1150 1150 1150 1150 1200 
 mem 5f151c 2200 2200 2200 2200 2200 2250
 pwr 5f151c 4 4 4 4 4 4
+
+
 # vlt 5f151c 1150 1150 1150 1150 1150 1150
 
-
-
-# ------------- MINER 2 -------------- #
-loc 5f13b5 rx580-1
-miner 5f13b5 claymore
-# desktop 5f13b5 disabled
-
-cor 5f13b5 1200 1200 1200 1200 1200 1200
-mem 5f13b5 2250 2250 2250 2250 2250 2250
-# pwr 5f13b5 4 4 4 4 4 4
 
 
 # ----------- Global Settings ----------- #
