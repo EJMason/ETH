@@ -5,6 +5,9 @@
 proxypool1 us2.ethermine.org:4444
 proxypool2 us1.ethermine.org:4444
 proxywallet 0x8925E863A6b4bEEdf0abD9A4849d3382C15BBcC9
+
+# <--
+# proxywallet 0x8925E863A6b4bEEdf0abD9A4849d3382C15BBcC9
 stratumproxy enabled
 
 
