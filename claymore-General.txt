@@ -5,3 +5,10 @@ ______________PASCAL________________
 -epsw x
 -esm 0
 -allpools 0
+
+
+____________SIA______________________
+-dcoin sia
+-dpool stratum+tcp://us-west.siamining.com:7777
+-dwal fc699c26f670ff1955684c5ca5ef549b4b528b5a3c351450f96c05acd6977afbe3522e2c3a91
+-epsw x
