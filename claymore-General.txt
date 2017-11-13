@@ -1,0 +1,7 @@
+
+______________PASCAL________________
+-dpool stratum+tcp://pasc-us-west1.nanopool.org:15555
+-dwal 86646-64.a956172c2d465bd3.Vega
+-epsw x
+-esm 0
+-allpools 0
