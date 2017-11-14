@@ -12,3 +12,6 @@ ____________SIA______________________
 -dpool stratum+tcp://us-west.siamining.com:7777
 -dwal fc699c26f670ff1955684c5ca5ef549b4b528b5a3c351450f96c05acd6977afbe3522e2c3a91
 -epsw x
+
+////////////////////////////////////////////////////////////////////////////////////
+XR: 4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRwzd5tee4fVC5qSZQy
