@@ -8,29 +8,17 @@ proxywallet 0x395a99Fa9e97899A6887EfdE61637C693e2B1d0d
 stratumproxy enabled
 
 
-# --------------- RX580-1 (Special Edition) --------------- #
-loc 5f13b5 rx580-1
-miner 5f13b5 claymore
-desktop 5f13b5 disabled
+# --------------- B250 - RX 580 8GB (Mixed) --------------- #
+loc 5f8f15 b250-1
+miner 5f8f15 claymore
+# desktop 5f8f15 disabled
 
-cor 5f13b5 1150 1150 1150 1200 1200 1200
-mem 5f13b5 2250 2250 2250 2250 2250 2250
-pwr 5f13b5 4 4 4 4 4 4
+#          RX580
+cor 5f8f15 1200
+mem 5f8f15 2250
+# pwr 5f8f15 4
 
-reb 5f13b5 2
-
-
-# ----------------------- RX580-2 ------------------------ #
-loc 5f151c rx580-2
-miner 5f151c claymore
-desktop 5f151c disabled
-
-cor 5f151c 1100 1150 1150 1150 1150 1200 
-mem 5f151c 2200 2200 2200 2200 2200 2250
-pwr 5f151c 4 4 4 4 4 4
-
-reb 5f151c 2
-
+# reb 5f13b5 1
 
 # ----------- Global Settings ----------- #
 maxgputemp 85
