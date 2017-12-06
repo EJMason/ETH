@@ -22,7 +22,7 @@ mem 5f8f15   2250
 
 # ----------- Global Settings ----------- #
 maxgputemp 85
-globalfan 80
+globalfan 85
 flags --cl-global-work 8192 --farm-recheck 200
 
 
