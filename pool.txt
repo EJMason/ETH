@@ -10,7 +10,7 @@ stratumproxy enabled
 
 # --------------- B250 - RX 580 8GB (Mixed) --------------- #
 loc       5f8f15 b250-1
-miner     5f8f15     ethminer
+miner     5f8f15 claymore
 #desktop 5f8f15 disabled
 
 #          RX580
