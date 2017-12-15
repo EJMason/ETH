@@ -1,7 +1,7 @@
 
 globalminer ethminer
-globalcore 1000
-globalmem 1250
+globalcore 1150
+globalmem 2150
 
 vlt 5f8f15 950 950 950
 
