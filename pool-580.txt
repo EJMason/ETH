@@ -1,1 +1,16 @@
 
+globalminer ethminer
+globalcore 1000
+globalmem 1250
+
+vlt 5f8f15 950 950 950
+
+
+# ---------- shant change EVER --------- #
+proxypool1 us2.ethermine.org:4444
+proxypool2 us1.ethermine.org:4444
+proxywallet 0x395a99Fa9e97899A6887EfdE61637C693e2B1d0d
+stratumproxy enabled
+flags --cl-global-work 8192 --farm-recheck 200
+globalfan 90
+maxgputemp 85
